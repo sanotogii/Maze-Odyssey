@@ -4,14 +4,12 @@
 
 Maze-Odyssey is a 3D maze game developed using C and SDL2. Navigate through intricate labyrinths in this immersive first-person experience.
 
-**[https://bragik.my.canva.site/yellow-white-photo-and-videocentric-error-page-website-error-page](landing page)
-
-**[Link to Project Blog Article]** (not yet)
+[Landing page](https://bragik.my.canva.site/yellow-white-photo-and-videocentric-error-page-website-error-page)
 
 ### Author
 
 **Khalid Lazrag**
-- LinkedIn: [https://www.linkedin.com/in/khalid-lazrag-91305423a/](https://www.linkedin.com/in/khalid-lazrag-91305423a/)
+- LinkedIn: [Khalid LAZRAG](https://www.linkedin.com/in/khalid-lazrag-91305423a/)
 
 ## Installation
 
