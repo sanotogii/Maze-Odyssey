@@ -50,6 +50,12 @@ void handleInput(double *posX, double *posY, double *dirX, double *dirY,
 		*planeY = oldPlaneX * sin(angle) + *planeY * cos(angle);
 	}
 
-	if (state[SDL_SCANCODE_M])
+	static Uint32 lastToggleTime = 0;
+	Uint32 currentTime = SDL_GetTicks();
+
+	if (state[SDL_SCANCODE_M] && (currentTime - lastToggleTime > 300))
+	{
 		showMap = !showMap;
+		lastToggleTime = currentTime;
+	}
 }
