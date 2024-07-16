@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Maze-Odyssey is a 3D maze game developed using C and SDL2. Navigate through intricate labyrinths in this immersive first-person experience.
+Maze-Odyssey is a 3D maze game developed using C and SDL2, inspired by Wolfenstein 3D.
 
 [Landing page](https://bragik.my.canva.site/yellow-white-photo-and-videocentric-error-page-website-error-page)
 
