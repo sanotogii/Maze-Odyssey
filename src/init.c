@@ -29,7 +29,7 @@ void initializeSDL(SDL_Window **window, SDL_Renderer **renderer,
 		exit(1);
 	}
 
-	*window = SDL_CreateWindow("Raycaster", SDL_WINDOWPOS_CENTERED,
+	*window = SDL_CreateWindow("Maze-Odyssey", SDL_WINDOWPOS_CENTERED,
 								SDL_WINDOWPOS_CENTERED, screenWidth,
 								screenHeight, SDL_WINDOW_SHOWN);
 	if (!*window)
